@@ -1,6 +1,7 @@
 Hey, 👋
 <br> This is a React Project made by <a href="https://www.github.com/ayushkumarbhadani">Ayush Kumar Bhadani</a> while learning React!
 
+You can view the project by clicking <a href="https://cardinreact-akb.netlify.app/" target="_blank">here</a>
 You can Connect me at:
 
 <div style="display: flex; gap: 1rem;">
