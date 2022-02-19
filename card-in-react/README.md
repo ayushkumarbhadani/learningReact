@@ -1,10 +1,15 @@
-Hey, 👋
-<br> This is a React Project made by <a href="https://www.github.com/ayushkumarbhadani">Ayush Kumar Bhadani</a> while learning React!
+Hey, Hello 👋
+<br> This is a React Project made by <a href="https://www.github.com/ayushkumarbhadani">Ayush Kumar Bhadani 👨‍💻</a> while learning React!
 
 You can view the project by clicking <a href="https://cardinreact-akb.netlify.app/" target="_blank">here</a>
+<br>
+<br>
+<br>
 You can Connect me at:
+<br>
+<br>
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 2rem;">
 <a href="http://www.instagram.com" target="_blank">
 <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" height="64px"/>
 </a>
