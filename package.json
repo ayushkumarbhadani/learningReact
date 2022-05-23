@@ -1,0 +1,19 @@
+{
+  "name": "learningreact2",
+  "version": "1.0.0",
+  "description": "Hey, Hello 👋 <br> These are the React Projects made by <a href=\"https://www.github.com/ayushkumarbhadani\">me</a><span style=\"font-size:3rem\">👨‍💻</span> while learning React! <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkumarbhadani/learningReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushkumarbhadani/learningReact/issues"
+  },
+  "homepage": "https://github.com/ayushkumarbhadani/learningReact#readme"
+}
