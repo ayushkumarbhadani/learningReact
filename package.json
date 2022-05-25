@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayushkumarbhadani/learningReact/issues"
   },
-  "homepage": "https://github.com/ayushkumarbhadani/learningReact#readme"
+  "homepage": "https://github.com/ayushkumarbhadani/learningReact#readme",
+  "dependencies": {
+    "react-router-dom": "^6.3.0"
+  }
 }
